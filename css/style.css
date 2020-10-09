@@ -23,3 +23,10 @@ body {
   display: block;
 }
 
+.news {
+  color: #fff;
+}
+
+.news1 {
+  border: 15px solid #000;
+}
