@@ -19,5 +19,7 @@ body {
   border: 10px solid #000;
 }
 
-
+.page-footer {
+  display: block;
+}
 
